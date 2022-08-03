@@ -56,6 +56,6 @@ jep106 = "0.2.4"
 # Public
 bitflags = "1.2.1"
 # Private
-rusb = "0.9.0"
+rusb = { git = "ssh://git@github.com/martinjlowm/rusb", rev = "77468bcaba44c2d073c3bc2afd34454b872ade93" }
 log = "0.4.8"
 byteorder = "1.3.2"
